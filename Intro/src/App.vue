@@ -17,7 +17,8 @@ export default {
 
   <button @click="count++">Count is: {{ count }}</button>
 
-  <header>
+  <!-- Initial code for welcome page from Vue
+    <header>
     <img alt="Vue logo" class="logo" src="./assets/logo.svg" width="125" height="125" />
 
     <div class="wrapper">
@@ -27,7 +28,8 @@ export default {
 
   <main>
     <TheWelcome />
-  </main>
+  </main> -->
+  
 </template>
 
 <style>
